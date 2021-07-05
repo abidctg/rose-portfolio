@@ -3,6 +3,7 @@ body{
     margin: 0;
 }
 section{display: flex;
+    margin-bottom: 100px;
 
 }
 .half-width{
@@ -23,8 +24,11 @@ section{display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-
-
+.dream-rose{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .rose{
     color:lawngreen;font-size: 3em;
 } 
@@ -46,11 +50,21 @@ section{display: flex;
 .d{
     color:black;font-size: 2em;
 }
-
-
-
-
-
+.ar{
+    color: red;font-size: 3em;
+}
+.messi{
+    color: lawngreen;font-size: 3em;
+}
+.bo{
+    color: lawngreen;font-size: 2em;
+}
+.to{
+    color: red;font-size: 2em;
+}
+.g{
+    font-size: 2em;
+}
 
 
 
